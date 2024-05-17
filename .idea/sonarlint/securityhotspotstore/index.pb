@@ -67,3 +67,33 @@ J
 src/chap_04/_09_Break.java,d\3\d365e13fdd4d43910ee5d41eb0f9ece635a99af6
 F
 src/chap_03/_Quiz.java,7\0\70a246c61901752c54e0f2790eaac64adfd5e1f2
+J
+src/chap_05/_01_Array.java,b\4\b475f0053fbbaabb425ff212f88d3f5869455a09
+N
+src/chap_05/_02_ArrayLoop.java,8\4\84360a26ad2807c02882e5191f859001e41b2c97
+O
+src/chap_05/_03_MultiArray.java,8\2\82fd251e7b7f43585a04af88fc375adbf398742b
+S
+#src/chap_05/_04_MultiArrayLoop.java,9\d\9d4d32603d3fe351d8b3a4e14217c21013a8c8f5
+J
+src/chap_05/_05_ASCII.java,7\a\7ab9ac0663aa2017e53ad422f1d3f7f3019a6bc7
+F
+src/chap_05/_Quiz.java,a\e\ae509c5f8cbc7fca84fda96be0270d5eb57709a6
+K
+src/chap_06/_01_Method.java,b\8\b8051e3d90a57d63874055d5094629a98ab10bfa
+N
+src/chap_06/_02_Parameter.java,b\7\b703f093661001dd4418cab7ccbfb6a82d53610e
+K
+src/chap_06/_03_Return.java,2\c\2cdb2762ac788c40999f1c4c2af0757688483fc4
+W
+'src/chap_06/_04_ParameterAndReturn.java,b\6\b661846e933c24acfab293fbd2a0f69103610687
+P
+ src/chap_06/_05_Overloading.java,f\5\f5eae0d5c0e9181f615508ddafec6b0fdf6d50df
+N
+src/chap_06/_06_WhenToUse.java,6\d\6d8597473133fdc6a4d9eab4972889118982717f
+F
+src/chap_06/_Quiz.java,d\6\d681c5ffd50d0725a8216a7380bb15f60dfa4b98
+R
+"src/chap_06/_07_VariableScope.java,2\4\245aac719f0253a37576eb53394a51280f9d6d46
+O
+src/chap_06/_08_MainMethod.java,8\6\86389ca66485f1e770c6f9a2d0829d211939ae11
