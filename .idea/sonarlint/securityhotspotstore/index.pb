@@ -97,3 +97,17 @@ R
 "src/chap_06/_07_VariableScope.java,2\4\245aac719f0253a37576eb53394a51280f9d6d46
 O
 src/chap_06/_08_MainMethod.java,8\6\86389ca66485f1e770c6f9a2d0829d211939ae11
+J
+src/chap_07/_01_Class.java,b\d\bda497265ddefc53c2d06661df89657bc33539df
+I
+src/chap_07/BlackBox.java,0\2\022841d9daf0d25abce60ba3dbb8786934d930fa
+U
+%src/chap_07/_02_InstanceVariable.java,a\3\a392bd8cc0b1cccd2bcfdccbdd44d974ed73bca5
+R
+"src/chap_07/_03_ClassVariable.java,b\7\b7bbe9788abce48c136c01ac3886b199d4dc848e
+K
+src/chap_07/_04_Method.java,4\9\499aa96ba92307c80fa265980b9779b4e595f5d9
+V
+&src/chap_07/_05_MethodOverloading.java,8\e\8e140400bbd795ce1788513af2a502aea1a5bd71
+P
+ src/chap_07/_06_ClassMethod.java,6\e\6e2505fd36f26f7ed02f3465ca9a29a512591482
