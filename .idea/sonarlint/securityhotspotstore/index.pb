@@ -111,3 +111,23 @@ V
 &src/chap_07/_05_MethodOverloading.java,8\e\8e140400bbd795ce1788513af2a502aea1a5bd71
 P
  src/chap_07/_06_ClassMethod.java,6\e\6e2505fd36f26f7ed02f3465ca9a29a512591482
+I
+src/chap_07/_07_This.java,c\c\ccab6ae98740bd31d65f8fc9fe3c7d6f412dbe70
+P
+ src/chap_07/_08_Constructor.java,c\b\cb16320c8b898e7c947647414849e12414abfb2c
+Q
+!src/chap_07/_09_GetterSetter.java,6\e\6e98ca60ba2fce3d094be24f164fbe1918dcccc0
+S
+#src/chap_07/_10_AccessModifier.java,7\3\7368220b5cf7280acf9ff232d4850f5bbdfd785b
+R
+"src/chap_07/BlackBoxRefurbish.java,a\5\a5f3c6018abf0e27654bba6c6d3c96d3aefb8135
+L
+src/chap_07/_11_Package.java,d\f\df41903aa95b094995266f4d7583b0055377aca6
+N
+src/chap_07/camera/Camera.java,a\a\aa68d5768e91dfacd361a7838015a067b44aeacd
+P
+ src/chap_07/camera/SpeedCam.java,0\d\0d4d084512c9779124dbeaceaf3f7981a174e67c
+R
+"src/chap_07/camera/FactoryCam.java,8\e\8e6a082563d8412a9512ddb20ab94088119c43ce
+P
+ src/chap_07/_12_Inheritance.java,8\2\82d34f011777fc809bad56b4d95138aa65cf300c
